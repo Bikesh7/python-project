@@ -1,4 +1,4 @@
-#
+#this is simple changes for gitstatus
 for a in range(10):
     print(a)
 for b in range(2, 8):
